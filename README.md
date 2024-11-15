@@ -1,4 +1,4 @@
-### Scripts Used for EVSC Final Project
+### Script Used for ARCGIS Final Project
 
 Data Scraped From: 
 ```
